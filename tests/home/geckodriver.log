@@ -1,0 +1,9 @@
+1489386232416	geckodriver	INFO	Listening on 127.0.0.1:56003
+1489386234435	mozprofile::profile	INFO	Using profile path C:\Users\Eric\AppData\Local\Temp\rust_mozprofile.xuoxebZ0HYm9
+1489386234438	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489386234445	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56009
+1489386236613	Marionette	INFO	Listening on port 56009
+1489386240729	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/application-ca3832d8209acb32234b72549908ee7c0ad20d764f90d96a6138442d334949ab.js, line 132: ReferenceError: Wistia is not defined
+1489386204041	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1489386220565	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

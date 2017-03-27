@@ -1,0 +1,4 @@
+email,password
+test@email.com, invalid
+invalid, abcabc
+invalid@email.com, invalid
